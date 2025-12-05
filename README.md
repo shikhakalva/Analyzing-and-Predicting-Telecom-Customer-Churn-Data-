@@ -14,3 +14,29 @@ Power BI – Interactive churn dashboard
 Excel / CSV – Raw dataset
 
 Jupyter Notebook – Modeling workflow
+
+📈 Key Skills Demonstrated
+End-to-end data pipeline design
+
+SQL ETL development
+
+Data cleaning & preprocessing
+
+Statistical EDA
+
+Machine learning model development
+
+Visualization for business insights
+
+Feature engineering and model tuning
+
+📌 Project Outcomes
+Identified customer groups with highest churn risk
+
+Built actionable churn insights for retention teams
+
+Delivered a machine-learning model to predict churn
+
+Created a dashboard enabling data-driven decision making
+
+
